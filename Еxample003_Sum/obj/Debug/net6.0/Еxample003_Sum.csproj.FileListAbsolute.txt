@@ -1,0 +1,15 @@
+/home/marat/C#/Examples/Еxample003_Sum/bin/Debug/net6.0/Еxample003_Sum
+/home/marat/C#/Examples/Еxample003_Sum/bin/Debug/net6.0/Еxample003_Sum.deps.json
+/home/marat/C#/Examples/Еxample003_Sum/bin/Debug/net6.0/Еxample003_Sum.runtimeconfig.json
+/home/marat/C#/Examples/Еxample003_Sum/bin/Debug/net6.0/Еxample003_Sum.dll
+/home/marat/C#/Examples/Еxample003_Sum/bin/Debug/net6.0/ref/Еxample003_Sum.dll
+/home/marat/C#/Examples/Еxample003_Sum/bin/Debug/net6.0/Еxample003_Sum.pdb
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/Еxample003_Sum.csproj.AssemblyReference.cache
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/Еxample003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/Еxample003_Sum.AssemblyInfoInputs.cache
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/Еxample003_Sum.AssemblyInfo.cs
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/Еxample003_Sum.csproj.CoreCompileInputs.cache
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/Еxample003_Sum.dll
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/ref/Еxample003_Sum.dll
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/Еxample003_Sum.pdb
+/home/marat/C#/Examples/Еxample003_Sum/obj/Debug/net6.0/Еxample003_Sum.genruntimeconfig.cache
