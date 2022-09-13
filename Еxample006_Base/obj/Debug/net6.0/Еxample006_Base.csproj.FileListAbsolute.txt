@@ -1,0 +1,15 @@
+/home/marat/C#/Examples/Еxample006_Base/bin/Debug/net6.0/Еxample006_Base
+/home/marat/C#/Examples/Еxample006_Base/bin/Debug/net6.0/Еxample006_Base.deps.json
+/home/marat/C#/Examples/Еxample006_Base/bin/Debug/net6.0/Еxample006_Base.runtimeconfig.json
+/home/marat/C#/Examples/Еxample006_Base/bin/Debug/net6.0/Еxample006_Base.dll
+/home/marat/C#/Examples/Еxample006_Base/bin/Debug/net6.0/ref/Еxample006_Base.dll
+/home/marat/C#/Examples/Еxample006_Base/bin/Debug/net6.0/Еxample006_Base.pdb
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/Еxample006_Base.csproj.AssemblyReference.cache
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/Еxample006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/Еxample006_Base.AssemblyInfoInputs.cache
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/Еxample006_Base.AssemblyInfo.cs
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/Еxample006_Base.csproj.CoreCompileInputs.cache
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/Еxample006_Base.dll
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/ref/Еxample006_Base.dll
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/Еxample006_Base.pdb
+/home/marat/C#/Examples/Еxample006_Base/obj/Debug/net6.0/Еxample006_Base.genruntimeconfig.cache
