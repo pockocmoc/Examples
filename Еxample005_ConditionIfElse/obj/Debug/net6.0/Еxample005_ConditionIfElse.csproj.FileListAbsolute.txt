@@ -1,0 +1,15 @@
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/bin/Debug/net6.0/Еxample005_ConditionIfElse
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/bin/Debug/net6.0/Еxample005_ConditionIfElse.deps.json
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/bin/Debug/net6.0/Еxample005_ConditionIfElse.runtimeconfig.json
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/bin/Debug/net6.0/Еxample005_ConditionIfElse.dll
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/bin/Debug/net6.0/ref/Еxample005_ConditionIfElse.dll
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/bin/Debug/net6.0/Еxample005_ConditionIfElse.pdb
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/Еxample005_ConditionIfElse.csproj.AssemblyReference.cache
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/Еxample005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/Еxample005_ConditionIfElse.AssemblyInfoInputs.cache
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/Еxample005_ConditionIfElse.AssemblyInfo.cs
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/Еxample005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/Еxample005_ConditionIfElse.dll
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/ref/Еxample005_ConditionIfElse.dll
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/Еxample005_ConditionIfElse.pdb
+/home/marat/C#/Examples/Еxample005_ConditionIfElse/obj/Debug/net6.0/Еxample005_ConditionIfElse.genruntimeconfig.cache
