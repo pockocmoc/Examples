@@ -1,0 +1,15 @@
+/home/marat/C#/Examples/Еxample004_Div/bin/Debug/net6.0/Еxample004_Div
+/home/marat/C#/Examples/Еxample004_Div/bin/Debug/net6.0/Еxample004_Div.deps.json
+/home/marat/C#/Examples/Еxample004_Div/bin/Debug/net6.0/Еxample004_Div.runtimeconfig.json
+/home/marat/C#/Examples/Еxample004_Div/bin/Debug/net6.0/Еxample004_Div.dll
+/home/marat/C#/Examples/Еxample004_Div/bin/Debug/net6.0/ref/Еxample004_Div.dll
+/home/marat/C#/Examples/Еxample004_Div/bin/Debug/net6.0/Еxample004_Div.pdb
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/Еxample004_Div.csproj.AssemblyReference.cache
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/Еxample004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/Еxample004_Div.AssemblyInfoInputs.cache
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/Еxample004_Div.AssemblyInfo.cs
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/Еxample004_Div.csproj.CoreCompileInputs.cache
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/Еxample004_Div.dll
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/ref/Еxample004_Div.dll
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/Еxample004_Div.pdb
+/home/marat/C#/Examples/Еxample004_Div/obj/Debug/net6.0/Еxample004_Div.genruntimeconfig.cache
